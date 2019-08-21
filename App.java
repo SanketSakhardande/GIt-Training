@@ -5,8 +5,12 @@ public class App{
         System.out.println("New commit");
 
         System.out.println("heyy how you doin??");
-        System.out.println("in the branch fixdefect! defect has been fixed now!");
+<<<<<<< HEAD
+        System.out.println("Master");
 
+=======
+        System.out.println("Master");
+>>>>>>> master
 
     }
 }
