@@ -6,6 +6,5 @@ public class App{
 
         System.out.println("heyy how you doin??");
 
-
     }
 }
