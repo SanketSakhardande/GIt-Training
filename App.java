@@ -5,7 +5,7 @@ public class App{
         System.out.println("New commit");
 
         System.out.println("heyy how you doin??");
-        System.out.println("Master");
+        System.out.println("Master with updated data");
 
     }
 }
