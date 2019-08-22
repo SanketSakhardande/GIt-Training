@@ -5,13 +5,16 @@ public class App{
         System.out.println("New commit");
 
         System.out.println("heyy how you doin??");
-<<<<<<< HEAD
+        git log --oneline
         System.out.println("Master with updated data fixdefect pulling it");
         
         
-=======
+
         System.out.println("Master with updated data hellooo");
->>>>>>> commit 1
+
+        System.out.println("Master with updated data fixdefect");
+
+
 
     }
 }
